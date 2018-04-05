@@ -1,0 +1,7 @@
+D:\Учёба\КСиС\Laba_4_ksis\Laba_4_ksis\bin\Debug\Laba_4_ksis.exe.config
+D:\Учёба\КСиС\Laba_4_ksis\Laba_4_ksis\bin\Debug\Laba_4_ksis.exe
+D:\Учёба\КСиС\Laba_4_ksis\Laba_4_ksis\bin\Debug\Laba_4_ksis.pdb
+D:\Учёба\КСиС\Laba_4_ksis\Laba_4_ksis\obj\Debug\Laba_4_ksis.csprojResolveAssemblyReference.cache
+D:\Учёба\КСиС\Laba_4_ksis\Laba_4_ksis\obj\Debug\Laba_4_ksis.csproj.CoreCompileInputs.cache
+D:\Учёба\КСиС\Laba_4_ksis\Laba_4_ksis\obj\Debug\Laba_4_ksis.exe
+D:\Учёба\КСиС\Laba_4_ksis\Laba_4_ksis\obj\Debug\Laba_4_ksis.pdb
